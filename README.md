@@ -8,3 +8,4 @@ Services used:
 4. AWS CodePipeline
 5. AWS SNS
 6. AWS EC2 
+https://github.com/yankils
